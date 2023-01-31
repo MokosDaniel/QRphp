@@ -1,6 +1,5 @@
-<body> 
 <?php
 include(./phpqrcode.php);
 QRcode::png('https://mokosdaniel.github.io/ARPymol/')
 ?>
-</body>
+
